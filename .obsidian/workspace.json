@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TCM/TCM CERTS/PWPA/PWPA - PBB/5. Authentication and Authorization Attacks/5. Authentication and Authorization Attacks.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Authentication and Authorization Attacks"
+              "title": "README"
             }
           }
         ]
@@ -185,19 +185,21 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "73ffa6d6c9f4b91d",
+  "active": "b92e4d5b36bc2be9",
   "lastOpenFiles": [
-    "IMG/{F7E9C2EE-C0A6-4DE2-8F79-62C5241F0D7D}.png",
-    "IMG/{D2A8AD43-ED68-4E17-8825-39ACAF1B69C1}.png",
-    "IMG/{D2A8AD43-ED68-4E17-8825-39ACAF1B69C1} 3.png",
-    "IMG/{D2A8AD43-ED68-4E17-8825-39ACAF1B69C1} 2.png",
-    "IMG/{D2A8AD43-ED68-4E17-8825-39ACAF1B69C1} 1.png",
-    "IMG/{B6C0C7AC-B7A1-4482-B80E-CE013D020E82}.png",
-    "IMG/{B6C0C7AC-B7A1-4482-B80E-CE013D020E82} 4.png",
-    "IMG/{B6C0C7AC-B7A1-4482-B80E-CE013D020E82} 3.png",
-    "IMG/Screenshot_2025-05-01_124606.png",
-    "IMG/Screenshot_2025-05-01_123748.png",
-    "IMG/image 3 7.png",
+    "TCM/TCM CERTS/PWPA/PWPA - PBB/5. Authentication and Authorization Attacks/5. Authentication and Authorization Attacks.md",
+    "IMG/image 3 9.png",
+    "IMG/image 3.png",
+    "IMG/image 3 8.png",
+    "IMG/image 30.png",
+    "IMG/image 31.png",
+    "IMG/image 4 5.png",
+    "IMG/image 4 2.png",
+    "IMG/image 4 4.png",
+    "IMG/image 4 3.png",
+    "IMG/image 4 6.png",
+    "IMG/Welcome.md",
+    "IMG/desktop.ini",
     "IMG/curl_commands.md",
     "IMG",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/4. Recon and Information Gathering/4. Recon and Information Gathering.md",
@@ -223,11 +225,9 @@
     "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks/1. LFI - RFI/3. File Inclusion challenge.md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks/1. LFI - RFI/2. LFI - RFI sum-up.md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks/1. LFI - RFI/1. LFI - RFI.md",
-    "TCM/TCM CERTS/PWPA/PWPA - PBB/5. Authentication and Authorization Attacks/5. Authentication and Authorization Attacks.md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks/Untitled.md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks/2. Introduction to SQL Injection",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks/1. LFI - RFI",
-    "TCM/TCM CERTS/PWPA/PWPA - PBB/5. Authentication and Authorization Attacks",
-    "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks"
+    "TCM/TCM CERTS/PWPA/PWPA - PBB/5. Authentication and Authorization Attacks"
   ]
 }
