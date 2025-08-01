@@ -13,7 +13,7 @@
 - Practical reasons.
 - Fairness.
 
-## ==In-scope and Out of scope :==
+## In-scope and Out of scope :
 
 ```Bash
 Rule 1: Most Specific domain is the one that should be adhered to,
@@ -36,16 +36,12 @@ Rule 2: Wildcard (*) character appies to none, one or more (without limit)
 				 example.com is out of scope.
 ```
 
-## ==Duplicates Bugs :==
-
-  
+## Duplicates Bugs :
 
 - **Orgs award the bounty to the initial reporter**
 - **Knowingly reporting a duplicate report is unethical.**
 
-## ==Community Code of Conduct :==
-
-  
+## Community Code of Conduct :
 
 - **Disclosure Terms**
 - **Collaboration**
