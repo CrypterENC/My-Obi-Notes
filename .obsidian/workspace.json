@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TCM/TCM CERTS/PWPA/PWPA - PBB/4. Recon and Information Gathering/4. Recon and Information Gathering.md",
+                "file": "TCM/TCM CERTS/PWPA/PWPA - PBB/5. Authentication and Authorization Attacks/5. Authentication and Authorization Attacks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Recon and Information Gathering"
+              "title": "5. Authentication and Authorization Attacks"
             }
           }
         ]
@@ -187,6 +187,7 @@
   },
   "active": "b92e4d5b36bc2be9",
   "lastOpenFiles": [
+    "TCM/TCM CERTS/PWPA/PWPA - PBB/4. Recon and Information Gathering/4. Recon and Information Gathering.md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/3. Web Application Tech/3. Web Applications Tech.md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/2. Before We Attack -/Understanding Scope, Ethics, Code of Conduct.md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/1. Web Application Security/3. Phases of the Web Applicaition Penetration Test.md",
@@ -213,7 +214,6 @@
     "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks/Untitled.md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks/2. Introduction to SQL Injection",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks/1. LFI - RFI",
-    "TCM/TCM CERTS/PWPA/PWPA - PBB/4. Recon and Information Gathering/4. Recon and Information Gathering.md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/5. Authentication and Authorization Attacks",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/4. Recon and Information Gathering"
