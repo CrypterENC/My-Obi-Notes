@@ -46,7 +46,7 @@
 ## 👨‍💻 Author
 
 Crafted by a hacker, for hackers.  
--- [x] Link to the repo : (here)[https://github.com/CrypterENC/My-Obi-Notes.git]
+-- [x] Link to the repo : [here](https://github.com/CrypterENC/My-Obi-Notes.git)
 
 ---
 
