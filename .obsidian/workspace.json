@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks/2. Introduction to SQL Injection/1. Introduction to SQL Injection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "1. Introduction to SQL Injection"
             }
           }
         ]
@@ -176,11 +176,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-kanban:Create new board": false,
+      "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "8cebd262477fb658",
+  "active": "b92e4d5b36bc2be9",
   "lastOpenFiles": [
+    "TCM/TCM CERTS/PWPA/PWPA - PBB/1. Web Application Security/1. Importance of Web Application Security.md",
+    "README.md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks/1. LFI - RFI/desktop.ini",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks/desktop.ini",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/1. Web Application Security/desktop.ini",
@@ -202,14 +210,12 @@
     "TCM/TCM CERTS/PWPA/PWPA - PBB/1. Web Application Security/3. Phases of the Web Applicaition Penetration Test.md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/1. Web Application Security/2. Web Application Security Standards.md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/1. Web Application Security/1. Web Application Security.md",
-    "TCM/TCM CERTS/PWPA/PWPA - PBB/1. Web Application Security/1. Importance of Web Application Security.md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/5. Authentication and Authorization Attacks",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/Resources.md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/PWPA - PBB.md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/4. Recon and Information Gathering",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/3. Web Applications Tech.md",
-    "TCM/TCM CERTS/PWPA/PWPA - PBB/2. Before We Attack -",
-    "TCM/TCM CERTS/PWPA/PWPA - PBB/1. Web Application Security"
+    "TCM/TCM CERTS/PWPA/PWPA - PBB/2. Before We Attack -"
   ]
 }
