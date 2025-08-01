@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TCM/TCM CERTS/PWPA/PWPA - PBB/4. Recon and Information Gathering/4. Recon and Information Gathering.md",
+                "file": "TCM/TCM CERTS/PWPA/PWPA - PBB/5. Authentication and Authorization Attacks/5. Authentication and Authorization Attacks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Recon and Information Gathering"
+              "title": "5. Authentication and Authorization Attacks"
             }
           }
         ]
@@ -158,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCM/TCM CERTS/PWPA/PWPA - PBB/4. Recon and Information Gathering/4. Recon and Information Gathering.md",
+                "file": "TCM/TCM CERTS/PWPA/PWPA - PBB/5. Authentication and Authorization Attacks/5. Authentication and Authorization Attacks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 4. Recon and Information Gathering"
+              "title": "Outline of 5. Authentication and Authorization Attacks"
             }
           },
           {
@@ -211,8 +211,9 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "8cebd262477fb658",
+  "active": "c044547dc67255c8",
   "lastOpenFiles": [
+    "TCM/TCM CERTS/PWPA/PWPA - PBB/4. Recon and Information Gathering/4. Recon and Information Gathering.md",
     "IMG/Welcome.md",
     "create a link.md",
     "README.md",
@@ -230,7 +231,6 @@
     "IMG/desktop.ini",
     "IMG/curl_commands.md",
     "IMG",
-    "TCM/TCM CERTS/PWPA/PWPA - PBB/4. Recon and Information Gathering/4. Recon and Information Gathering.md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/3. Web Application Tech/3. Web Applications Tech.md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/2. Before We Attack -/Understanding Scope, Ethics, Code of Conduct.md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/1. Web Application Security/3. Phases of the Web Applicaition Penetration Test.md",
