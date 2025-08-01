@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks/2. Introduction to SQL Injection/1. Introduction to SQL Injection.md",
+                "file": "TCM/TCM CERTS/PWPA/PWPA - PBB/PWPA - PBB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Introduction to SQL Injection"
+              "title": "PWPA - PBB"
             }
           }
         ]
@@ -187,6 +187,11 @@
   },
   "active": "b92e4d5b36bc2be9",
   "lastOpenFiles": [
+    "TCM/TCM CERTS/PWPA/PWPA - PBB/3. Web Application Tech/3. Web Applications Tech.md",
+    "TCM/TCM CERTS/PWPA/PWPA - PBB/3. Web Application Tech",
+    "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks/Cross Site Scripting (XSS).md",
+    "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks/2. Introduction to SQL Injection/1. Introduction to SQL Injection.md",
+    "TCM/TCM CERTS/PWPA/PWPA - PBB/Resources.md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/1. Web Application Security/1. Importance of Web Application Security.md",
     "README.md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks/1. LFI - RFI/desktop.ini",
@@ -195,11 +200,9 @@
     "TCM/TCM CERTS/desktop.ini",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks/2. Introduction to SQL Injection/3. SQLi LAB - 2.md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks/2. Introduction to SQL Injection/2. SQLi LAB - 1.md",
-    "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks/2. Introduction to SQL Injection/1. Introduction to SQL Injection.md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks/1. LFI - RFI/3. File Inclusion challenge.md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks/1. LFI - RFI/2. LFI - RFI sum-up.md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks/1. LFI - RFI/1. LFI - RFI.md",
-    "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks/Cross Site Scripting (XSS).md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/5. Authentication and Authorization Attacks/5. Authentication and Authorization Attacks.md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks/Untitled.md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks/2. Introduction to SQL Injection",
@@ -211,11 +214,8 @@
     "TCM/TCM CERTS/PWPA/PWPA - PBB/1. Web Application Security/2. Web Application Security Standards.md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/1. Web Application Security/1. Web Application Security.md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/5. Authentication and Authorization Attacks",
-    "TCM/TCM CERTS/PWPA/PWPA - PBB/Resources.md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/PWPA - PBB.md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks",
-    "TCM/TCM CERTS/PWPA/PWPA - PBB/4. Recon and Information Gathering",
-    "TCM/TCM CERTS/PWPA/PWPA - PBB/3. Web Applications Tech.md",
-    "TCM/TCM CERTS/PWPA/PWPA - PBB/2. Before We Attack -"
+    "TCM/TCM CERTS/PWPA/PWPA - PBB/4. Recon and Information Gathering"
   ]
 }
