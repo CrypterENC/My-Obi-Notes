@@ -1,10 +1,10 @@
 ## Scope :
 
-- **It defines the range of assets that the org is explicitly inviting security researchers to assess for vulnerabilties.**
+- **It defines the range of assets that the org is explicitly inviting security researchers to assess for vulnerabilities.**
 
 ## Out of Scope :
 
-- **Its refers to the assets that are explicitly off - limites for seccurity reasearches participating in tghe bug bounty program.**
+- **Its refers to the assets that are explicitly off - limits for security researches participating in the bug bounty program.**
 
 ## Why is Scoping Important :
 

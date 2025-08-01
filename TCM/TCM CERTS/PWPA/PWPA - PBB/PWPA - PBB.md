@@ -10,7 +10,7 @@ echo -e '\n# Auto-Warpify\n[[ "$-" == _i_ ]] && printf '\''\eP$f{"hook": "Source
 
 [[1. Web Application Security]]
 
-[[2. Before We Attack -]]
+[[2. Before We Attack]]
 
   
 
