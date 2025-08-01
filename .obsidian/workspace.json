@@ -185,8 +185,21 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "b92e4d5b36bc2be9",
+  "active": "73ffa6d6c9f4b91d",
   "lastOpenFiles": [
+    "IMG/{F7E9C2EE-C0A6-4DE2-8F79-62C5241F0D7D}.png",
+    "IMG/{D2A8AD43-ED68-4E17-8825-39ACAF1B69C1}.png",
+    "IMG/{D2A8AD43-ED68-4E17-8825-39ACAF1B69C1} 3.png",
+    "IMG/{D2A8AD43-ED68-4E17-8825-39ACAF1B69C1} 2.png",
+    "IMG/{D2A8AD43-ED68-4E17-8825-39ACAF1B69C1} 1.png",
+    "IMG/{B6C0C7AC-B7A1-4482-B80E-CE013D020E82}.png",
+    "IMG/{B6C0C7AC-B7A1-4482-B80E-CE013D020E82} 4.png",
+    "IMG/{B6C0C7AC-B7A1-4482-B80E-CE013D020E82} 3.png",
+    "IMG/Screenshot_2025-05-01_124606.png",
+    "IMG/Screenshot_2025-05-01_123748.png",
+    "IMG/image 3 7.png",
+    "IMG/curl_commands.md",
+    "IMG",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/4. Recon and Information Gathering/4. Recon and Information Gathering.md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/3. Web Application Tech/3. Web Applications Tech.md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/2. Before We Attack -/Understanding Scope, Ethics, Code of Conduct.md",
@@ -215,7 +228,6 @@
     "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks/2. Introduction to SQL Injection",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks/1. LFI - RFI",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/5. Authentication and Authorization Attacks",
-    "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks",
-    "TCM/TCM CERTS/PWPA/PWPA - PBB/4. Recon and Information Gathering"
+    "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks"
   ]
 }
