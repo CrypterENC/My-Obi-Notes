@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 323.5,
+    "collapsed": true
   },
   "right": {
     "id": "d6b5547b7bf904ef",
@@ -210,7 +211,7 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "8cebd262477fb658",
+  "active": "012a3b162fc600af",
   "lastOpenFiles": [
     "TCM/TCM CERTS/PWPA/PWPA - PBB/2. Before We Attack -/Understanding Scope, Ethics, Code of Conduct.md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/3. Web Application Tech/3. Web Applications Tech.md",
