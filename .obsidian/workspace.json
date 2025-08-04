@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks/6.3. Introduction to SQL Injection/3. SQLi LAB - 2.md",
+                "file": "HACKING-TOOLS/SQLMAP/1. SQLMAP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. SQLi LAB - 2"
+              "title": "1. SQLMAP"
             }
           }
         ]
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5,
-    "collapsed": true
+    "width": 323.5
   },
   "right": {
     "id": "d6b5547b7bf904ef",
@@ -213,13 +212,16 @@
   },
   "active": "012a3b162fc600af",
   "lastOpenFiles": [
-    "TCM/TCM CERTS/PWPA/PWPA - PBB/Resources.md",
+    "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks/6.3. Introduction to SQL Injection/1. Introduction to SQL Injection.md",
+    "HACKING-TOOLS/SQLMAP/1. SQLMAP.md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks/6.3. Introduction to SQL Injection/3. SQLi LAB - 2.md",
+    "HACKING-TOOLS/SQLMAP",
+    "HACKING-TOOLS",
+    "TCM/TCM CERTS/PWPA/PWPA - PBB/Resources.md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/2. Before We Attack -/Understanding Scope, Ethics, Code of Conduct.md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/3. Web Application Tech/3. Web Applications Tech.md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/PWPA - PBB.md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks/6.2. LFI - RFI/1. LFI - RFI.md",
-    "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks/6.3. Introduction to SQL Injection/1. Introduction to SQL Injection.md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks/6. Injection Attacks.md",
     "0. Injection Attacks.md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks/6.3. Introduction to SQL Injection/2. SQLi LAB - 1.md",
@@ -255,8 +257,6 @@
     "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks/desktop.ini",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/1. Web Application Security/desktop.ini",
     "TCM/TCM CERTS/desktop.ini",
-    "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks/6.3. Introduction to SQL Injection",
-    "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks/6.2. LFI - RFI",
-    "TCM/TCM CERTS/PWPA/PWPA - PBB/5. Authentication and Authorization Attacks"
+    "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks/6.3. Introduction to SQL Injection"
   ]
 }
