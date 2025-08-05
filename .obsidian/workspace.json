@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9fe0df48f6ceb7de",
+        "id": "5168c0c2143e21d7",
         "type": "tabs",
         "children": [
           {
-            "id": "012a3b162fc600af",
+            "id": "551811ab3ddba769",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "f70211ef08179d95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WEB-PT-NOTES/SQLMAP/1. SQLMAP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. SQLMAP"
+              "title": "New tab"
             }
           }
         ]
@@ -108,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5,
-    "collapsed": true
+    "width": 250.5
   },
   "right": {
     "id": "d6b5547b7bf904ef",
@@ -227,12 +208,14 @@
   },
   "active": "8cebd262477fb658",
   "lastOpenFiles": [
+    "Untitled.md",
+    "New Text Document.txt",
+    "README.md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/PWPA - PBB.md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks/6.3. Introduction to SQL Injection/3. SQLi LAB - 2.md",
     "WEB-PT-NOTES/SQLMAP/1. SQLMAP.md",
     "WEB-PT-NOTES/SQL Injection/1. SQLi.md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks/6. Injection Attacks.md",
-    "Untitled.md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks/6.3. Introduction to SQL Injection/2. SQLi LAB - 1.md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks/6.3. Introduction to SQL Injection/1. Introduction to SQL Injection.md",
     "WEB-PT-NOTES/SQL Injection/desktop.ini",
@@ -244,7 +227,6 @@
     "TCM/TCM CERTS/PWPA/PWPA - PBB/3. Web Application Tech/3. Web Applications Tech.md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks/6.2. LFI - RFI/1. LFI - RFI.md",
     "0. Injection Attacks.md",
-    "README.md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks/6.2. LFI - RFI/2. LFI - RFI sum-up.md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks/6.2. LFI - RFI/3. File Inclusion challenge.md",
     "6. Injection Attacks.md",
@@ -268,10 +250,8 @@
     "TCM/TCM CERTS/PWPA/PWPA - PBB/1. Web Application Security/3. Phases of the Web Applicaition Penetration Test.md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/2. Before We Attack -/2. Before We Attack.md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/1. Web Application Security/2. Web Application Security Standards.md",
-    "TCM/TCM CERTS/PWPA/PWPA - PBB/1. Web Application Security/1. Importance of Web Application Security.md",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/3. Web Application Tech",
     "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks/1. LFI - RFI/desktop.ini",
-    "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks/desktop.ini",
-    "TCM/TCM CERTS/PWPA/PWPA - PBB/1. Web Application Security/desktop.ini"
+    "TCM/TCM CERTS/PWPA/PWPA - PBB/6. Injection Attacks/desktop.ini"
   ]
 }
