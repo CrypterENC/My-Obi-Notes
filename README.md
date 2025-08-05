@@ -1,53 +1,33 @@
 # 🛠️ My-Obi-Notes
 
-⠀⠀⠀⠀⣀⣀⣀⣀⣤⣤⣶⣶⣶⣶⣤⣤⣤⣤⣀⣀⠀⠀⠀⠀⠀⠀  
-⠀⢀⣴⡿⠿⠛⠋⠉⠉⠉⠉⠁⠀⠀⠀⠀⠉⠉⠉⠉⠛⠛⠻⢿⣷⣦⡀  
-⣰⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣤⣤⣤⣤⣤⣀⠀⠀⠀⠙⣿⣿  
-⣿⣿⠀⠀⢀⣴⣶⣶⣶⣶⣶⣶⣤⡈⠉⠁⠀⠀⠀⠈⢹⣷⠀⠀⠀⣿⣿  
-⢿⣿⣦⣄⠘⠋⠁⠀⠀⢀⣀⣀⡈⠙⠛⠛⠛⠛⠛⠓⠀⣿⣇⠀⣸⣿⠇  
-⠀⠙⠻⢿⣿⣶⣤⣤⣤⣾⣿⠿⠿⠿⠿⠿⠷⣶⣤⣤⣴⣿⣿⣿⠿⠋⠀  
-⠀⠀⠀⠀⠀⠉⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠉⠀⠀⠀⠀⠀
+     ________  ________  ___  ________  ___  ________     
+    |\   __  \|\   __  \|\  \|\   ____\|\  \|\   __  \    
+    \ \  \|\  \ \  \|\  \ \  \ \  \___|\ \  \ \  \|\  \   
+     \ \   __  \ \  \\\  \ \  \ \_____  \ \  \ \   ____\  
+      \ \  \ \  \ \  \\\  \ \  \|____|\  \ \  \ \  \___|  
+       \ \__\ \__\ \_______\ \__\____\_\  \ \__\ \__\     
+        \|__|\|__|\|_______|\|__|\_________\|__|\|__|     
+                               \|_________|
+          Obsidian vault for operators & hackers
+⠀
 
 
-> ✨ Welcome to **My-Obi-Notes** — a curated Obsidian vault for hackers, red teamers, reverse engineers, and OSINT practitioners.
+> ✨ Welcome to **My-Obi-Notes** — a curated Obsidian vault for Penetration Tester, (WEB-PT)
 
 ---
 
 ## 📁 Overview
 
-`My-Obi-Notes` is a personal knowledge base designed for security professionals. It's powered by [Obsidian](https://obsidian.md) and structured for rapid access to tools, techniques, commands, exploits, and field notes. Inspired by real-world operations, CTFs, and research workflows.
+`My-Obi-Notes` is a purpose-built knowledge base structured for offensive security, digital forensics, malware analysis, and cyber research. Powered by [Obsidian](https://obsidian.md), it supports lightning-fast access to tools, techniques, cheat sheets, and notes — all rooted in real-world operations, CTFs, and active research workflows.
 
 ---
-## ⚙️ Features
-
-- 🧠 Markdown-based notes for portability & versioning  
-- 📚 Categorized sections: `Red Team`, `Blue Team`, `OSINT`, `Malware`, `Tooling`, `TTPs`, `Exploits`  
-- 🧩 Code snippets, payloads, and one-liners  
-- 🗂️ Smart tagging and interlinking (Zettelkasten-style)  
-- 🚀 Custom templates for note-taking (e.g., vulnerability report, incident log)  
-- 🧪 Integrated testing notes for lab environments  
-
----
-
-## 🛠️ Recommended Plugins
-
-- **Templater** – Automate and pre-fill notes  
-- **Dataview** – Query and visualize data from notes  
-- **Advanced URI** – Jump across notes easily  
-- **Canvas** – Visualize attack chains and mind maps  
-
----
-## 🚨 Disclaimer
-
-> This vault is intended for educational and lawful penetration testing **only**. Always ensure you have proper authorization before testing or using these techniques.
-
----
-
 ## 👨‍💻 Author
 
-Crafted by a hacker, for hackers.  
--- [x] Link to the repo : [here](https://github.com/CrypterENC/My-Obi-Notes.git)
+Crafted by a hacker, for hackers.
+
+📂 **Repo:** [CrypterENC/My-Obi-Notes](https://github.com/CrypterENC/My-Obi-Notes.git)
 
 ---
 
-> 🧠 _"The quieter you become, the more you are able to hear."_ – Kali Linux Motto
+> 🧠 _"The quieter you become, the more you are able to hear."_  
+> — Kali Linux
