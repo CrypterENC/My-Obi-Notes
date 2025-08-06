@@ -24,6 +24,7 @@
 	1.  In the **Main Wireshark Window** `-->` **Look at the bottom.**
 
 		![[Pasted image 20250807002626.png]]
+                ![Main Wireshark Window-Look at the bottom](https://github.com/CrypterENC/My-Obi-Notes/blob/main/IMG/Pasted%20image%2020250807002626.png)
 
 
 ### 2. How many DNS packets are in the file?  
