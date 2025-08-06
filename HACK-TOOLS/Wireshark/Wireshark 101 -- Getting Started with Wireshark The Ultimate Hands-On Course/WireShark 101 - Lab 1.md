@@ -18,6 +18,11 @@
 
 	2.  So In this `lab1.pcapng` we got **268** packets.
 
+2. **Second Way :** 
+
+	1.  In the **Main Wireshark Window** `-->` **Look at the bottom.**
+
+		![[Pasted image 20250807002626.png]]
 
 
 ### 2. How many DNS packets are in the file?  
