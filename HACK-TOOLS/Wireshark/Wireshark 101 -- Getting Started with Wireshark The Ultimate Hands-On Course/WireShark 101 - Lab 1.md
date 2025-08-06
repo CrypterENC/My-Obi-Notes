@@ -15,8 +15,9 @@
 	1.  Goto -> **Statistics tab** -> **Capture File Properties.**
 	
 		![[Pasted image 20250807002103.png]]
+	        ![Capture File Properties](https://github.com/CrypterENC/My-Obi-Notes/blob/main/IMG/Pasted%20image%2020250807002103.png)
 
-	2.  So In this `lab1.pcapng` we got **268** packets.
+	3.  So In this `lab1.pcapng` we got **268** packets.
 
 2. **Second Way :** 
 
