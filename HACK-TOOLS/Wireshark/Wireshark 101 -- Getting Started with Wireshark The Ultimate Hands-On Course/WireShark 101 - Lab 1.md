@@ -28,10 +28,41 @@
 
 
 ### 2. How many DNS packets are in the file?  
-### 3. If you just installed Wireshark for the first time, what profile are you using?  
-### 4 Look at packet number 5 - what is the destination IP address in this packet?  
-### 5. What is the destination TCP port in this same packet?  
-### 6. What application typically uses this port?  
-### 7. What TCP flag is set in this packet?  
-### 8. What is the frame number of the next packet in this TCP conversation?  
-### 9. Can you set a filter for this conversation? How many packets do you get?
+
+- You can use `dns` filter the search box.
+
+	![[Pasted image 20250807205047.png]]
+
+### 3 Look at packet number 5 - what is the destination IP address in this packet ?
+
+- **Destination Ip address is :**  `104.16.143.237`
+
+	![[Pasted image 20250807205427.png]]
+### 4. What is the destination TCP port in this same packet?  
+
+-  **Check the Info Tab.**
+
+-  Destination TCP port is **80**
+
+	![[Pasted image 20250807205427.png]]
+
+### 5. What application typically uses this port ? 
+
+- **80** `-->` **HTTP**
+### 6. What TCP flag is set in this packet ?  
+
+-  **Same check the detailed transmission window.**
+
+- **SYN**
+
+	![[Pasted image 20250807230955.png]]
+### 7. What is the frame number of the next packet in this TCP conversation ?  
+
+
+-  To get the next frame number of the packet in this TCP Conversation, we can use Conversation Filter
+
+	 ![[Pasted image 20250807233934.png]]
+
+-  So 9th packet this next packet in this TCP conversation.
+
+### 8. Can you set a filter for this conversation? How many packets do you get ?
