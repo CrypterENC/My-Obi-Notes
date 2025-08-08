@@ -1,7 +1,3 @@
-# Obsidian system folder
-.obsidian/cache/
-.obsidian/workspace.json
-
 # Optional: Ignore all plugins & community settings
 .obsidian/plugins/
 .obsidian/snippets/
