@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HACK-TOOLS/Wireshark/Wireshark 101 -- Getting Started with Wireshark The Ultimate Hands-On Course/2, WireShark Interface.md",
+                "file": "HACK-TOOLS/Wireshark/Wireshark 101 -- Getting Started with Wireshark The Ultimate Hands-On Course/2. WireShark Interface.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2, WireShark Interface"
+              "title": "2. WireShark Interface"
             }
           }
         ],
@@ -218,10 +218,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "54c657f349fb9078",
+  "active": "8cebd262477fb658",
   "lastOpenFiles": [
     "HACK-TOOLS/Wireshark/Wireshark 101 -- Getting Started with Wireshark The Ultimate Hands-On Course/1. WireShark 101 - Lab 1.md",
-    "HACK-TOOLS/Wireshark/Wireshark 101 -- Getting Started with Wireshark The Ultimate Hands-On Course/2, WireShark Interface.md",
+    "HACK-TOOLS/Wireshark/Wireshark 101 -- Getting Started with Wireshark The Ultimate Hands-On Course/2. WireShark Interface.md",
     "HACK-TOOLS/Wireshark/Wireshark 101 -- Getting Started with Wireshark The Ultimate Hands-On Course/WireShark.md",
     "IMG/Pasted image 20250807205047.png",
     "IMG/Pasted image 20250808153228.png",
