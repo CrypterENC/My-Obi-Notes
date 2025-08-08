@@ -65,4 +65,12 @@
 
 -  So 9th packet this next packet in this TCP conversation.
 
-### 8. Can you set a filter for this conversation? How many packets do you get ?
+### 8. Can you set a filter for this conversation ? How many packets do you get ?
+
+-  **To set a filter for this conversation** `-->` **right click on the packet**`-->` **select Conversation Filter** `-->` **and select the TCP protocol.**
+
+	![[Pasted image 20250807231125.png]]
+
+	![[Pasted image 20250808153228.png]]
+
+	- **We the answer to the question** " *How many packets do you get ?* " is **3 packets**
