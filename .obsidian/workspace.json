@@ -205,8 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,7 +219,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "54c657f349fb9078",
+  "active": "8cebd262477fb658",
   "lastOpenFiles": [
     "Pasted image 20250808214349.png",
     "HACK-TOOLS/Wireshark/Wireshark 101 -- Getting Started with Wireshark The Ultimate Hands-On Course/1. WireShark 101 - Lab 1.md",
