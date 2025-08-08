@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HACK-TOOLS/Wireshark/Wireshark 101 -- Getting Started with Wireshark The Ultimate Hands-On Course/WireShark 101 - Lab 1.md",
+                "file": "HACK-TOOLS/Wireshark/Wireshark 101 -- Getting Started with Wireshark The Ultimate Hands-On Course/2, WireShark Interface.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WireShark 101 - Lab 1"
+              "title": "2, WireShark Interface"
             }
           }
         ],
@@ -220,8 +220,10 @@
   },
   "active": "54c657f349fb9078",
   "lastOpenFiles": [
+    "HACK-TOOLS/Wireshark/Wireshark 101 -- Getting Started with Wireshark The Ultimate Hands-On Course/1. WireShark 101 - Lab 1.md",
+    "HACK-TOOLS/Wireshark/Wireshark 101 -- Getting Started with Wireshark The Ultimate Hands-On Course/2, WireShark Interface.md",
+    "HACK-TOOLS/Wireshark/Wireshark 101 -- Getting Started with Wireshark The Ultimate Hands-On Course/WireShark.md",
     "IMG/Pasted image 20250807205047.png",
-    "HACK-TOOLS/Wireshark/Wireshark 101 -- Getting Started with Wireshark The Ultimate Hands-On Course/WireShark 101 - Lab 1.md",
     "IMG/Pasted image 20250808153228.png",
     "IMG/Pasted image 20250807231125.png",
     "IMG/Pasted image 20250807233934.png",
@@ -231,7 +233,6 @@
     "IMG/Pasted image 20250807205340.png",
     "IMG/Pasted image 20250807002103.png",
     "IMG/Pasted image 20250807002626.png",
-    "HACK-TOOLS/Wireshark/Wireshark 101 -- Getting Started with Wireshark The Ultimate Hands-On Course/WireShark.md",
     "HACK-TOOLS",
     "WEB-PT-NOTES/Wireshark/Wireshark 101 -- Getting Started with Wireshark The Ultimate Hands-On Course/desktop.ini",
     "HACK-TOOLS/Wireshark/Wireshark 101 -- Getting Started with Wireshark The Ultimate Hands-On Course",
