@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 269.5,
+    "collapsed": true
   },
   "right": {
     "id": "d6b5547b7bf904ef",
@@ -220,6 +221,7 @@
   },
   "active": "54c657f349fb9078",
   "lastOpenFiles": [
+    "Pasted image 20250808214349.png",
     "HACK-TOOLS/Wireshark/Wireshark 101 -- Getting Started with Wireshark The Ultimate Hands-On Course/1. WireShark 101 - Lab 1.md",
     "HACK-TOOLS/Wireshark/Wireshark 101 -- Getting Started with Wireshark The Ultimate Hands-On Course/2. WireShark Filters.md",
     "HACK-TOOLS/Wireshark/Wireshark 101 -- Getting Started with Wireshark The Ultimate Hands-On Course/WireShark.md",
@@ -264,7 +266,6 @@
     "TCM/TCM CERTS/PWPA/PWPA - PBB/5. Authentication and Authorization Attacks/5. Authentication and Authorization Attacks.md",
     "IMG/Welcome.md",
     "create a link.md",
-    "IMG/desktop.ini",
-    "IMG/curl_commands.md"
+    "IMG/desktop.ini"
   ]
 }
