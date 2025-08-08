@@ -16,6 +16,7 @@
 	1.  Goto -> **Statistics tab** -> **Capture File Properties.**
 	
 		![[Pasted image 20250807002103.png]]
+
 	    ![Capture File Properties](https://github.com/CrypterENC/My-Obi-Notes/blob/main/IMG/Pasted%20image%2020250807002103.png)
 
 	3.  So In this `lab1.pcapng` we got **268** packets.
@@ -25,6 +26,7 @@
 	1.  In the **Main Wireshark Window** `-->` **Look at the bottom.**
 
 		![[Pasted image 20250807002626.png]]
+
         ![Main Wireshark Window-Look at the bottom](https://github.com/CrypterENC/My-Obi-Notes/blob/main/IMG/Pasted%20image%2020250807002626.png)
 
 
@@ -34,11 +36,17 @@
 
 	![[Pasted image 20250807205047.png]]
 
+	![Alt](https://github.com/CrypterENC/My-Obi-Notes/blob/main/IMG/Pasted%20image%2020250807205047.png)
+ 
+
 ### 3 Look at packet number 5 - what is the destination IP address in this packet ?
 
 - **Destination Ip address is :**  `104.16.143.237`
 
 	![[Pasted image 20250807205427.png]]
+
+	![Alt](https://github.com/CrypterENC/My-Obi-Notes/blob/main/IMG/Pasted%20image%2020250807205427.png)
+
 ### 4. What is the destination TCP port in this same packet?  
 
 -  **Check the Info Tab.**
@@ -46,6 +54,9 @@
 -  Destination TCP port is **80**
 
 	![[Pasted image 20250807205427.png]]
+
+	![Alt](https://github.com/CrypterENC/My-Obi-Notes/blob/main/IMG/Pasted%20image%2020250807205427.png)
+
 
 ### 5. What application typically uses this port ? 
 
@@ -57,12 +68,17 @@
 - **SYN**
 
 	![[Pasted image 20250807230955.png]]
+
+	![Alt](https://github.com/CrypterENC/My-Obi-Notes/blob/main/IMG/Pasted%20image%2020250807230955.png)
+
 ### 7. What is the frame number of the next packet in this TCP conversation ?  
 
 
 -  To get the next frame number of the packet in this TCP Conversation, we can use Conversation Filter
 
 	 ![[Pasted image 20250807233934.png]]
+
+	![Alt](https://github.com/CrypterENC/My-Obi-Notes/blob/main/IMG/Pasted%20image%2020250807233934.png)
 
 -  So 9th packet this next packet in this TCP conversation.
 
@@ -72,6 +88,10 @@
 
 	![[Pasted image 20250807231125.png]]
 
+	![Alt](https://github.com/CrypterENC/My-Obi-Notes/blob/main/IMG/Pasted%20image%2020250807231125.png)
+
 	![[Pasted image 20250808153228.png]]
+
+	![Alt](https://github.com/CrypterENC/My-Obi-Notes/blob/main/IMG/Pasted%20image%2020250808153228.png)
 
 	- **We the answer to the question** " *How many packets do you get ?* " is **3 packets**
